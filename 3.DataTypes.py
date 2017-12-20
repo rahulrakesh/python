@@ -1,4 +1,4 @@
-#Python 3.6.3 lessons - Excercise 1
+#Python 3.6.3 lessons - Excercise 3
 #Developer - Rahul Rakesh
 #Data types
 print(type(1))

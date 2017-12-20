@@ -1,4 +1,4 @@
-#Python 3.6.3 lessons - Excercise 1
+#Python 3.6.3 lessons - Excercise 2
 #Developer - Rahul Rakesh
 #just so I don't forget - if I am working on interpreter and want to clear the screen
 #this program will help me
