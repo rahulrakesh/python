@@ -14,7 +14,7 @@ def right_justify(str):
     start_index = max_len - str_len
     
     text = " "
-    for i in range(start_index - 1):
+    for i in range(start_index -1):
      text+=" "
     print(text+str)
 
